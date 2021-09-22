@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on a Django React App
 
-![image](https://user-images.githubusercontent.com/37084278/134415405-43db976f-a35e-4d93-8a9e-4bb8e8bc30d5.png)
+- 📫 How to reach me: stelios [dot] ioannides [dot] risk 
+
+
 
 
 
