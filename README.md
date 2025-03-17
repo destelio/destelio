@@ -1,6 +1,5 @@
-### Hi there 👋
+### Hi there 👋, I am Stelios
 
-- 🔭 I’m currently working on a Django React App
 
 - 📫 How to reach me: stelios [dot] ioannides [dot] risk 
 
