@@ -1,7 +1,7 @@
 ### Hi there 👋, I am Stelios
 
 
-- 📫 How to reach me: stelios [dot] ioannides [dot] risk 
+- 📫 How to reach me: stelios [dot] ioannides [dot] risk [at] gmail [dot] com
 
 
 
