@@ -2,7 +2,7 @@
 
 - 📫 How to reach me: stelios [dot] ioannides [dot] risk [at] gmail [dot] com.
 - I am a pythonic full stack data developer focused on the real estate market.
-- I develop full-cycle complete data solutions from data extraction, transformation, feature engineering, ML data training to data visualization.
+- I develop full-cycle complete data solutions from data extraction, transformation, data feature engineering, Machiine Learning data training to data visualization.
 
 
 
