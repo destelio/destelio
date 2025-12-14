@@ -1,7 +1,11 @@
 ### Hi there 👋, I am Stelios
 
-- 📫 How to reach me: stelios [dot] ioannides [dot] risk [at] gmail [dot] com.
-- I am a pythonic full stack data developer focused on the real estate market.
+- 📫 How to reach me: 0034 623 520 345
+<!--
+- stelios [dot] ioannides [dot] risk [at] gmail [dot] com.
+  -->
+<li>- I am a pythonic full stack data developer focused on the real estate market.</li>
+  <br>
 - I develop full-cycle complete data solutions from data extraction, transformation, data feature engineering, Machiine Learning data training to data visualization.
 
 
