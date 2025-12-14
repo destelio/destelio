@@ -4,9 +4,14 @@
 <!--
 - stelios [dot] ioannides [dot] risk [at] gmail [dot] com.
   -->
-<li>- I am a pythonic full stack data developer focused on the real estate market.</li>
+<li>I am a pythonic full stack data developer focused on the real estate market.</li>
   <br>
-- I develop full-cycle complete data solutions from data extraction, transformation, data feature engineering, Machiine Learning data training to data visualization.
+
+
+  <li>
+    I develop full-cycle complete data solutions from data extraction, transformation, data feature engineering, Machiine Learning data training to data visualization.
+  </li>
+
 
 
 
